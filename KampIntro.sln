@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\Kamp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Döngüler", "Döngüler\Döngüler.csproj", "{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{B86E8493-7423-45DF-9CE9-235393AA4668}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86E8493-7423-45DF-9CE9-235393AA4668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86E8493-7423-45DF-9CE9-235393AA4668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86E8493-7423-45DF-9CE9-235393AA4668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86E8493-7423-45DF-9CE9-235393AA4668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
