@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{DDF6AF4C-EDFF-4F03-B7BB-27FFCD8C4174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Döngüler", "Döngüler\Döngüler.csproj", "{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF6AF4C-EDFF-4F03-B7BB-27FFCD8C4174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF6AF4C-EDFF-4F03-B7BB-27FFCD8C4174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF6AF4C-EDFF-4F03-B7BB-27FFCD8C4174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF6AF4C-EDFF-4F03-B7BB-27FFCD8C4174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E7FD04-5A46-4C3F-9594-69E8AFDED1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39EFF324-DE89-46EC-BAAB-6897610FDB5A}
+	EndGlobalSection
+EndGlobal
