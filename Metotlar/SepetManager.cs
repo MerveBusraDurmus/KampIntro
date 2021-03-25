@@ -10,5 +10,11 @@ namespace Metotlar
         {
             Console.WriteLine("Sepete eklendi : "+urun.Adi);
         }
+
+
+        public void Ekle2(string urunAdi,string aciklama,double fiyat,int stokAdedi)
+        {
+            Console.WriteLine("Sepete eklendi : " + urunAdi);
+        }
     }
 }

@@ -6,7 +6,8 @@ namespace Matematik
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            DortIslem dortIslem = new DortIslem();
+            dortIslem.Topla(5, 6);
         }
     }
 }
